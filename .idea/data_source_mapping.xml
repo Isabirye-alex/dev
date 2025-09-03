@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/models/order_model.php" value="dc312165-ec3b-42d2-a058-249798f961b0" />
+    <file url="file://$PROJECT_DIR$/models/product_model.php" value="dc312165-ec3b-42d2-a058-249798f961b0" />
+    <file url="file://$PROJECT_DIR$/models/user_model.php" value="dc312165-ec3b-42d2-a058-249798f961b0" />
+    <file url="file://$PROJECT_DIR$/views/forms/add_product_form.php" value="dc312165-ec3b-42d2-a058-249798f961b0" />
+  </component>
+</project>
