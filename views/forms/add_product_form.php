@@ -21,8 +21,7 @@ try {
     die("Error fetching product tags: " . $e->getMessage());
 }
 ?>
-
-<form action="/dashboard/controllers/product_controller.php" method="POST" enctype="multipart/form-data" class="container mt-4 form-group form-control fullscreen">
+<form action="/dev/controllers/product_controller.php" method="POST" enctype="multipart/form-data" class="container mt-4 form-group form-control fullscreen">
     <input type="hidden" name="add_product" value="1" />
 
     <div class="mb-3">
